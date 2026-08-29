@@ -1,1 +1,1 @@
-.snapsplit project
+.snapsplit project.
